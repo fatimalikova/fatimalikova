@@ -70,19 +70,19 @@
 
 #### 🚀 Featured Projects
 
-** UAV Ballistic Targeting System** *(Research · Scopus-indexed)*
+UAV Ballistic Targeting System *(Research · Scopus-indexed)*
 Trajectory-based targeting system for a projectile released from a UAV, calculating optimal release parameters to achieve a specified target impact angle. Co-authoring the accompanying paper for submission to *Advances in Military Technology (AIMT)*.
 `Applied ML` `Physics Modeling` `Research`
 
-** [preference-based-rl](https://github.com/fatimalikova/preference-based-rl)**
+[Preference based RL](https://github.com/fatimalikova/preference-based-rl)
 Exploring reinforcement learning algorithms that learn from human preference signals instead of hand-crafted reward functions.
 `Python` `Reinforcement Learning`
 
-** Web-based Appointment Booking System**
+Web-based Appointment Booking System
 Full-stack appointment management platform with separate Client, Provider, and Admin panels. Includes JWT authentication with refresh tokens, email 2FA, SignalR real-time notifications, role-based authorization, and a social feed module (posts, likes, comments, follows).
 `ASP.NET Core Web API` `SQL Server` `SignalR` `JWT`
 
-** [MiniAppFrontend](https://github.com/fatimalikova/MiniAppFrontend)**
+[MiniAppFrontend](https://github.com/fatimalikova/MiniAppFrontend)
 Frontend for a medical-themed web application — responsive pages and clean UI built for a healthcare/clinic use case.
 `HTML` `CSS` `JavaScript`
 
