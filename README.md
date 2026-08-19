@@ -4,7 +4,7 @@
 
 ---
 
-#### 🔭 About Me
+####  About Me
 
 -  BSc Computer Engineering student at **National Aviation Academy** (GPA: 89.43/100)
 -  Actively moving into **AI / Machine Learning**, with a particular interest in **Reinforcement Learning**
@@ -15,7 +15,7 @@
 
 ---
 
-#### 🧠 AI / ML Focus
+####  AI / ML Focus
 
 - Supervised Machine Learning: Regression and Classification — *Stanford Online / DeepLearning.AI*
 - Neural Networks and Deep Learning — *DeepLearning.AI*
@@ -68,7 +68,7 @@
 
 ---
 
-#### 🚀 Featured Projects
+####  Featured Projects
 
 UAV Ballistic Targeting System *(Research · Scopus-indexed)*
 Trajectory-based targeting system for a projectile released from a UAV, calculating optimal release parameters to achieve a specified target impact angle. Co-authoring the accompanying paper for submission to *Advances in Military Technology (AIMT)*.
