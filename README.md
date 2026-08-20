@@ -1,4 +1,4 @@
-### ✨ Hi, I'm Fatima Malikova
+###  Hi, I'm Fatima Malikova
 
 **Computer Engineering Student | Backend Developer → transitioning into AI/ML & Reinforcement Learning**
 
@@ -88,7 +88,7 @@ Frontend for a medical-themed web application — responsive pages and clean UI 
 
 ---
 
-#### 🏅 Certifications
+####  Certifications
 
 - Supervised Machine Learning: Regression and Classification — DeepLearning.AI & Stanford Online (Jul 2026) — [Verify](https://coursera.org/verify/K19I8A2YSUZN)
 - Neural Networks and Deep Learning — DeepLearning.AI (Jul 2026) — [Verify](https://coursera.org/verify/H4ZX05HWZ0I3)
@@ -105,9 +105,5 @@ Frontend for a medical-themed web application — responsive pages and clean UI 
 - 🔗 LinkedIn: [Fatima Malikova](https://www.linkedin.com/in/fatima-malikova-b00483378)
 - 📧 Email: fatiamalikova@gmail.com
 
----
 
 
----
-
-⭐️ Thanks for stopping by my profile!
