@@ -1,6 +1,6 @@
 ###  Hi, I'm Fatima Malikova
 
-**Computer Engineering Student | Backend Engineer | Physical AI, Computer Vision & Reinforcement Learning | Robotics & Intelligent Autonomous Systems**
+**Computer Engineering Student | Backend Engineer -> Physical AI, Computer Vision & Reinforcement Learning | Robotics & Intelligent Autonomous Systems**
 
 ---
 
