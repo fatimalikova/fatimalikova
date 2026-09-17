@@ -1,109 +1,187 @@
-###  Hi, I'm Fatima Malikova
+# Fatima Malikova
 
-**Computer Engineering Student | Backend Engineer -> Physical AI, Computer Vision & Reinforcement Learning | Robotics & Intelligent Autonomous Systems**
+**Computer Engineering Student · Backend Engineer → Applied AI (Computer Vision, NLP, Reinforcement Learning)**
 
----
-
-####  About Me
-
--  BSc Computer Engineering student at **National Aviation Academy** (GPA: 89.43/100)
--  Actively moving into **AI / Machine Learning**, with a particular interest in **Reinforcement Learning**
--  Completed Stanford Online / DeepLearning.AI courses in supervised learning and deep learning
--  Co-authoring a Scopus-indexed research paper on a **UAV trajectory-based ballistic targeting system**, submitted to *Advances in Military Technology (AIMT)*
--  Strong backend foundation in **ASP.NET Core, C#, and SQL Server**, now applied alongside AI/ML work
--  Exploring **preference-based reinforcement learning** as a personal research direction
+BSc Computer Engineering @ National Aviation Academy (2024–2028) · 
+AI Intern @ CodeAlpha (Remote) · Baku, Azerbaijan
 
 ---
 
-####  AI / ML Focus
+## About
 
-- Supervised Machine Learning: Regression and Classification — *Stanford Online / DeepLearning.AI*
-- Neural Networks and Deep Learning — *DeepLearning.AI*
-- AI for Everyone — *DeepLearning.AI*
-- Ongoing: `preference-based-rl` research project
-- Research: UAV Ballistic Targeting System — trajectory-based targeting using applied ML/physics
+Backend engineer by foundation, applied-AI engineer by direction. I build production-style
+systems with **ASP.NET Core, C#, and SQL Server** — JWT authentication, SignalR real-time
+communication, role-based authorization — and apply machine learning to perception and
+decision-making problems: NLP chatbots, real-time object detection with YOLOv8/OpenCV, and
+preference-based reinforcement learning.
 
----
-
-####  Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI / Machine Learning**
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Backend**
-
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-05998B?style=flat-square&logo=fastapi&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SignalR](https://img.shields.io/badge/-SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Database**
-
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+Currently co-authoring a Scopus-indexed research paper on a UAV trajectory-based ballistic
+targeting system, submitted to *Advances in Military Technology (AIMT)*.
 
 ---
 
-####  Featured Projects
+## Focus Areas
 
-UAV Ballistic Targeting System *(Research · Scopus-indexed)*
-Trajectory-based targeting system for a projectile released from a UAV, calculating optimal release parameters to achieve a specified target impact angle. Co-authoring the accompanying paper for submission to *Advances in Military Technology (AIMT)*.
-`Applied ML` `Physics Modeling` `Research`
-
-[Preference based RL](https://github.com/fatimalikova/preference-based-rl)
-Exploring reinforcement learning algorithms that learn from human preference signals instead of hand-crafted reward functions.
-`Python` `Reinforcement Learning`
-
-Web-based Appointment Booking System
-Full-stack appointment management platform with separate Client, Provider, and Admin panels. Includes JWT authentication with refresh tokens, email 2FA, SignalR real-time notifications, role-based authorization, and a social feed module (posts, likes, comments, follows).
-`ASP.NET Core Web API` `SQL Server` `SignalR` `JWT`
-
-[MiniAppFrontend](https://github.com/fatimalikova/MiniAppFrontend)
-Frontend for a medical-themed web application — responsive pages and clean UI built for a healthcare/clinic use case.
-`HTML` `CSS` `JavaScript`
+```mermaid
+flowchart LR
+    A["Backend Engineering<br/>ASP.NET Core · C# · SQL Server"] --> C["Applied AI Systems"]
+    B["Machine Learning<br/>Python · PyTorch · TensorFlow"] --> C
+    C --> D["Computer Vision<br/>YOLOv8 · OpenCV"]
+    C --> E["NLP<br/>NLTK · TF-IDF"]
+    C --> F["Reinforcement Learning<br/>SAC · Reward Modeling"]
+    F --> G["Research Direction:<br/>Preference-Based RL"]
+```
 
 ---
 
-####  Certifications
+## Tech Stack
 
-- Supervised Machine Learning: Regression and Classification — DeepLearning.AI & Stanford Online (Jul 2026) — [Verify](https://coursera.org/verify/K19I8A2YSUZN)
-- Neural Networks and Deep Learning — DeepLearning.AI (Jul 2026) — [Verify](https://coursera.org/verify/H4ZX05HWZ0I3)
-- AI for Everyone — DeepLearning.AI
-- The Full-Stack Developer Program — Meta
-- Software Engineer Certificate — HackerRank
-- Node.js & MongoDB: Developing Back-End Applications — IBM
-- ICPC Certificate of Achievement
+| Area | Technologies |
+| --- | --- |
+| **Languages** | C#, Python, Java, C++, JavaScript |
+| **Backend** | ASP.NET Core Web API, ASP.NET Core MVC, REST API, Entity Framework Core, SignalR |
+| **AI / ML** | PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV, YOLOv8, NLTK, Gymnasium, Stable-Baselines3 |
+| **Database** | SQL Server |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Tools** | Git, GitHub, Postman, Jupyter, Flask, GitHub Copilot |
 
 ---
 
-####  Let's Connect
+## Experience
 
-- 🔗 LinkedIn: [Fatima Malikova](https://www.linkedin.com/in/fatima-malikova-b00483378)
-- 📧 Email: fatiamalikova@gmail.com
+### Artificial Intelligence Intern — CodeAlpha (Remote)
+*August 2026 – Present*
+
+- Built an **NLP-powered FAQ chatbot** using NLTK for text preprocessing and TF-IDF with cosine
+  similarity for intent matching, deployed behind a Flask web interface.
+- Implemented a **real-time object detection & tracking system** with YOLOv8 and OpenCV, applying
+  pre-trained deep learning models to detect and track objects across video frames with persistent IDs.
+- Developed a **language translation tool** with a JavaScript UI, integrating a translation API with
+  multi-language support, copy, and text-to-speech features.
+
+---
+
+## Selected Projects
+
+### Preference-Based Reward Learning for RL (PEBBLE-Inspired)
+*Independent Research · Python, PyTorch, C#/ASP.NET Core*
+
+- Implemented a simplified reproduction of **PEBBLE** (Lee et al., ICML 2021), training a
+  Bradley-Terry reward model from pairwise preference labels over RL trajectory clips.
+- Built a full RL pipeline (Gymnasium, Stable-Baselines3, PyTorch): trained baseline **SAC** agents
+  on continuous control (Pendulum-v1), extracted trajectory clips, and trained a reward model
+  reaching **0.978 Pearson correlation** with ground-truth reward.
+- Designed a companion web application (C#/ASP.NET Core) to collect real human preference labels,
+  connected to the training pipeline through a JSON-based data flow.
+- Identified and documented a systematic **human labeling bias**: the best clip by true reward was
+  rejected in 100% of comparisons regardless of on-screen position — released as an open-source
+  finding with full analysis and visualizations.
+
+```mermaid
+flowchart LR
+    S["SAC Agent<br/>Pendulum-v1"] --> T["Trajectory Clips"]
+    T --> W["Web App<br/>C# / ASP.NET Core"]
+    W --> P["Human Preference Labels<br/>(JSON)"]
+    P --> R["Bradley-Terry<br/>Reward Model"]
+    R --> M["r = 0.978 vs.<br/>ground-truth reward"]
+    R --> B["Documented<br/>labeling bias"]
+```
+
+---
+
+### UAV Ballistic Targeting System
+*Research Lab Project · Scopus-indexed · Applied ML, Physics Modeling*
+
+- Developing a trajectory-based targeting system for a projectile released from a UAV, computing
+  release parameters that achieve a specified target impact angle.
+- Co-authoring the accompanying research paper for submission to *Advances in Military Technology (AIMT)*.
+
+---
+
+### Web-based Appointment Booking System
+*ASP.NET Core Web API · SQL Server · SignalR*
+
+- Full-stack appointment management platform with separate **Client, Provider, and Admin** panels.
+- Implemented JWT authentication with refresh tokens, email two-factor authentication (2FA),
+  SignalR real-time notifications, and role-based authorization.
+- Core features: appointment scheduling, real-time availability slots, multi-step booking workflow,
+  and automated email reminders.
+- Additional modules: social feed (posts, likes, comments, follows) and an admin-managed hero slider.
+
+```mermaid
+flowchart TD
+    C["Client Panel"] --> API["ASP.NET Core Web API"]
+    P["Provider Panel"] --> API
+    AD["Admin Panel"] --> API
+    API --> AUTH["JWT + Refresh Tokens<br/>Email 2FA · Role-Based Authorization"]
+    API --> RT["SignalR<br/>Real-Time Notifications"]
+    API --> DB["SQL Server<br/>EF Core"]
+```
+
+---
+
+### PustokApp
+*ASP.NET Core MVC · EF Core · SQL Server*
+
+- Web application built on ASP.NET Core MVC with Entity Framework Core and dependency-injected
+  SQL Server integration.
+- Controllers/Views structure, routing configuration, static file handling, and production-ready
+  exception handling for non-development environments.
+
+---
+
+### Promedi — Medical Website Template
+*HTML · CSS · JavaScript*
+
+- Responsive multi-page website template for hospitals and clinics: Home, About, Services, Doctors,
+  Contact, and Appointment Booking.
+- Interactive UI components (image slider, testimonial carousel, responsive navigation) with a
+  mobile-first layout and reusable, scalable section structure.
+
+---
+
+### ROOT — Smart Agrotourism Platform
+*"Farm2Tour" Hackathon Project · 2026*
+
+- Platform concept connecting farmers with tourists; contributed UX flow, market research, and
+  pitch deck preparation.
+- Designed and presented an MVP with the team within a 36-hour sprint.
+
+---
+
+## Education
+
+**BSc in Computer Engineering** — National Aviation Academy · 09/2024 – 06/2028 · GPA 91.16/100
+Relevant coursework: Data Structures and Algorithms, Computer Architecture, Computer Graphics, Machine Learning
+
+**AI-assisted Programming** — CodeAcademy · 09/2025 – 08/2026
+ASP.NET MVC and C# web applications, CRUD with Entity Framework Core and SQL Server, OOP principles,
+backend–frontend integration, REST API development with ASP.NET Core
+
+---
+
+## Certifications
+
+| Certification | Issuer |
+| --- | --- |
+| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University |
+| Neural Networks and Deep Learning | DeepLearning.AI |
+| AI for Everyone | DeepLearning.AI |
+| The Full-Stack Developer Program | Meta |
+| Node.js & MongoDB: Developing Back-End Applications | IBM |
+| Software Engineer Certificate | HackerRank |
+| Certificate of Achievement | ICPC |
+
+---
+
+## Languages
+
+Azerbaijani (native) · Turkish (native) · English (upper-intermediate) · Russian (beginner) · Korean (beginner)
+
+---
 
 
+## Contact
 
+- LinkedIn: https://www.linkedin.com/in/fatima-malikova-b00483378
+- Email: fatiamalikova@gmail.com
