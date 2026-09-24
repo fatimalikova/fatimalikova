@@ -120,26 +120,6 @@ flowchart TD
 
 ---
 
-### PustokApp
-*ASP.NET Core MVC · EF Core · SQL Server*
-
-- Web application built on ASP.NET Core MVC with Entity Framework Core and dependency-injected
-  SQL Server integration.
-- Controllers/Views structure, routing configuration, static file handling, and production-ready
-  exception handling for non-development environments.
-
----
-
-### Promedi — Medical Website Template
-*HTML · CSS · JavaScript*
-
-- Responsive multi-page website template for hospitals and clinics: Home, About, Services, Doctors,
-  Contact, and Appointment Booking.
-- Interactive UI components (image slider, testimonial carousel, responsive navigation) with a
-  mobile-first layout and reusable, scalable section structure.
-
----
-
 ### ROOT — Smart Agrotourism Platform
 *"Farm2Tour" Hackathon Project · 2026*
 
