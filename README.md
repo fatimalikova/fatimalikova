@@ -3,7 +3,7 @@
 **Computer Engineering Student · Backend Engineer → Applied AI (Computer Vision, NLP, Reinforcement Learning)**
 
 BSc Computer Engineering @ National Aviation Academy (2024–2028) · 
-AI Intern @ CodeAlpha (Remote) · Baku, Azerbaijan
+AI Intern @ CodeAlpha (Remote) 
 
 ---
 
