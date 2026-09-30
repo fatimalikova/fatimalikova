@@ -131,7 +131,7 @@ flowchart TD
 **BSc in Computer Engineering** — National Aviation Academy · 09/2024 – 06/2028 · GPA 91.16/100
 Relevant coursework: Data Structures and Algorithms, Computer Architecture, Computer Graphics, Machine Learning
 
-**AI-assisted Programming** — CodeAcademy · 09/2025 – 08/2026
+**AI-assisted Programming** — CodeAcademy · 09/2025 – 06/2026
 ASP.NET MVC and C# web applications, CRUD with Entity Framework Core and SQL Server, OOP principles,
 backend–frontend integration, REST API development with ASP.NET Core
 
@@ -148,12 +148,6 @@ backend–frontend integration, REST API development with ASP.NET Core
 | Node.js & MongoDB: Developing Back-End Applications | IBM |
 | Software Engineer Certificate | HackerRank |
 | Certificate of Achievement | ICPC |
-
----
-
-## Languages
-
-Azerbaijani (native) · Turkish (native) · English (upper-intermediate) · Russian (beginner) · Korean (beginner)
 
 ---
 
