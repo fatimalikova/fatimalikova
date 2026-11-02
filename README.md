@@ -36,25 +36,11 @@ flowchart LR
 | Area | Technologies |
 | --- | --- |
 | **Languages** | C#, Python, Java, C++, JavaScript |
-| **Backend** | ASP.NET Core Web API, ASP.NET Core MVC, REST API, Entity Framework Core, SignalR |
+| **Backend** | ASP.NET Core Web API, ASP.NET Core MVC, REST API, Entity Framework Core, SignalR, FastAPI |
 | **AI / ML** | PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, OpenCV, YOLOv8, NLTK, Gymnasium, Stable-Baselines3 |
-| **Database** | SQL Server |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Tools** | Git, GitHub, Postman, Jupyter, Flask, GitHub Copilot |
-
----
-
-## Experience
-
-### Artificial Intelligence Intern — CodeAlpha (Remote)
-*August 2026 – Present*
-
-- Built an **NLP-powered FAQ chatbot** using NLTK for text preprocessing and TF-IDF with cosine
-  similarity for intent matching, deployed behind a Flask web interface.
-- Implemented a **real-time object detection & tracking system** with YOLOv8 and OpenCV, applying
-  pre-trained deep learning models to detect and track objects across video frames with persistent IDs.
-- Developed a **language translation tool** with a JavaScript UI, integrating a translation API with
-  multi-language support, copy, and text-to-speech features.
+| **Database** | SQL Server, SQLite |
+| **Frontend** | HTML, CSS, JavaScript, React |
+| **Tools** | Git, GitHub, Postman, Jupyter, Flask, Docker, GitHub Copilot |
 
 ---
 
@@ -87,11 +73,43 @@ flowchart LR
 ---
 
 ### UAV Ballistic Targeting System
-*Research Lab Project · Scopus-indexed · Applied ML, Physics Modeling*
+*Research Lab Project · Scopus-indexed · Python, OpenCV, Applied ML, Physics Modeling*
 
 - Developing a trajectory-based targeting system for a projectile released from a UAV, computing
   release parameters that achieve a specified target impact angle.
+- Implemented a **ballistic physics model** and generated a trajectory dataset, then trained an
+  **ML model** to predict the landing point from release parameters.
+- Added **ArUco marker detection** (OpenCV) for vision-based target localization, integrated with a
+  mission script and a release-test module.
 - Co-authoring the accompanying research paper for submission to *Advances in Military Technology (AIMT)*.
+- Repository: [fatimalikova/UAV](https://github.com/fatimalikova/UAV)
+
+---
+
+### SmartTransit Baku — Smart Transit & Crowdsourcing Engine
+*Digital Challenge Azerbaijan 2026 (Semi-finalist) · Team Project · Python, FastAPI, React, SQLite, Docker*
+
+- Working prototype that tackles overcrowded and empty bus lines during Baku's rush hours, with a
+  **passenger module** (live bus positions, ETA, crowd-level reports) and an **operator module**
+  (crowd heatmap, anomaly alerts, extra-bus recommendations).
+- Built on real open data from opendata.az: **233 bus lines** and **3,490 stops**, with about 980 buses
+  simulated along real street geometry.
+- Crowdsourced live GPS ("I'm on this bus"): the passenger's phone becomes the bus's live position,
+  snapped to the route line, since Baku has no open real-time bus GPS feed.
+- Rule-based analytics engine: weighted crowd scoring, anomaly detection, ETA calculation (including
+  circular routes), and spam protection with a verified-report points system.
+- Backed by 57 automated tests; shipped with Docker support and Swagger API docs.
+- Repository: [ElgunTech/team1-smart-transit-baku](https://github.com/ElgunTech/team1-smart-transit-baku)
+
+```mermaid
+flowchart LR
+    PH["Passenger Phone<br/>Crowd Reports · Live GPS"] --> API["FastAPI Backend"]
+    SIM["Bus Simulator<br/>233 lines · ~980 buses"] --> API
+    OD["opendata.az<br/>Lines + Stops"] --> API
+    API --> ENG["Analytics Engine<br/>Crowd Score · Anomaly · ETA"]
+    ENG --> DB["SQLite"]
+    ENG --> OP["Operator Dashboard<br/>Alerts · Extra Bus Dispatch"]
+```
 
 ---
 
@@ -104,6 +122,7 @@ flowchart LR
 - Core features: appointment scheduling, real-time availability slots, multi-step booking workflow,
   and automated email reminders.
 - Additional modules: social feed (posts, likes, comments, follows) and an admin-managed hero slider.
+- Repository: [fatimalikova/AppointmentAPP](https://github.com/fatimalikova/FinalProject)
 
 ```mermaid
 flowchart TD
@@ -141,16 +160,16 @@ backend–frontend integration, REST API development with ASP.NET Core
 
 | Certification | Issuer |
 | --- | --- |
+| Certificate of Achievement | ICPC |
 | Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University |
 | Neural Networks and Deep Learning | DeepLearning.AI |
 | AI for Everyone | DeepLearning.AI |
 | The Full-Stack Developer Program | Meta |
 | Node.js & MongoDB: Developing Back-End Applications | IBM |
 | Software Engineer Certificate | HackerRank |
-| Certificate of Achievement | ICPC |
+
 
 ---
-
 
 ## Contact
 
