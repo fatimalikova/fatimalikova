@@ -121,6 +121,17 @@ flowchart LR
     ENG --> OP["Operator Dashboard<br/>Alerts · Extra Bus Dispatch"]
 ```
 
+### Manext (AccessPath) — AI-Assisted Urban Accessibility Reporting
+
+*"İnsanyönümlü şəhərlər" Hackathon (MSİM × Gənclər Fondu) · Hilton Baku · 11–13 Nov 2026 · Team Lumora (5 members) · Python, FastAPI, JavaScript, Leaflet, SQLite*
+
+- **Problem:** People with mobility limitations often discover barriers (stairs without an accessible alternative, blocked ramps, damaged sidewalks) only once they arrive, because accessibility information about urban infrastructure is missing or scattered.
+- **Solution:** Built a map-first, AI-assisted web platform where a citizen reports a barrier in seconds with just **a location and one photo** (*Spot it → Snap it → Map it*). A vision-language model assesses the image, and the report is placed on an interactive map.
+- **Architecture:** **FastAPI** backend (reporting API, rule-based eligibility and XP logic, **SQLite**) with a vanilla-JavaScript frontend using **Leaflet + OpenStreetMap**. AI image analysis is kept separate from reward decisions.
+- **Key features:** AI-assisted reporting without manual categorization, provisional **+10 XP** incentives, a review-aware workflow for uncertain AI results, and complaint drafting for official channels.
+- **Responsible AI:** AI acts as an assistant, not an inspector; rewards are provisional and complaints are never submitted to government systems automatically.
+- First prototype focused on Baku, built as an MVP within a 3-day hackathon sprint.
+- Repository: [ayselmsyv/Manext](https://github.com/ayselmsyv/Manext)
 ---
 
 ### Web-based Appointment Booking System
