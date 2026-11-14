@@ -121,7 +121,7 @@ flowchart LR
     ENG --> OP["Operator Dashboard<br/>Alerts · Extra Bus Dispatch"]
 ```
 
-### Manext (AccessPath) — AI-Assisted Urban Accessibility Reporting
+### Manext — AI-Assisted Urban Accessibility Reporting
 
 *"İnsanyönümlü şəhərlər" Hackathon (MSİM × Gənclər Fondu) · Hilton Baku · 11–13 Nov 2026 · Team Lumora (5 members) · Python, FastAPI, JavaScript, Leaflet, SQLite*
 
