@@ -4,29 +4,6 @@
 
 ---
 
-## About
-
-Backend engineer by foundation, applied-AI engineer by direction. I build production-style
-systems with **ASP.NET Core, C#, and SQL Server** — JWT authentication, SignalR real-time
-communication, role-based authorization — and apply machine learning to perception and
-decision-making problems: NLP chatbots, real-time object detection with YOLOv8/OpenCV, and
-preference-based reinforcement learning.
-
-Currently co-authoring a Scopus-indexed research paper on a UAV trajectory-based ballistic
-targeting system, submitted to *Advances in Military Technology (AIMT)*.
-
----
-## Education
-
-**BSc in Computer Engineering** — National Aviation Academy · 09/2024 – 06/2028 · GPA 91.16/100
-Relevant coursework: Data Structures and Algorithms, Computer Architecture, Computer Graphics, Machine Learning
-
-**AI-assisted Programming** — CodeAcademy · 09/2025 – 06/2026
-ASP.NET MVC and C# web applications, CRUD with Entity Framework Core and SQL Server, OOP principles,
-backend–frontend integration, REST API development with ASP.NET Core
-
----
-
 ## Focus Areas
 
 ```mermaid
@@ -162,21 +139,6 @@ flowchart TD
 - Platform concept connecting farmers with tourists; contributed UX flow, market research, and
   pitch deck preparation.
 - Designed and presented an MVP with the team within a 36-hour sprint.
-
----
-
-## Certifications
-
-| Certification | Issuer |
-| --- | --- |
-| Certificate of Achievement | ICPC |
-| Supervised Machine Learning: Regression and Classification | DeepLearning.AI & Stanford University |
-| Neural Networks and Deep Learning | DeepLearning.AI |
-| AI for Everyone | DeepLearning.AI |
-| The Full-Stack Developer Program | Meta |
-| Node.js & MongoDB: Developing Back-End Applications | IBM |
-| Software Engineer Certificate | HackerRank |
-
 
 ---
 
