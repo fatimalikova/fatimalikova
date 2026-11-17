@@ -132,14 +132,13 @@ flowchart TD
 ```
 
 ---
-
 ### ROOT — Smart Agrotourism Platform
-*"Farm2Tour" Hackathon Project · 2026*
+*“Farm2Tour” Hackathon Project · 2026*
 
-- Platform concept connecting farmers with tourists; contributed UX flow, market research, and
-  pitch deck preparation.
-- Designed and presented an MVP with the team within a 36-hour sprint.
-
+- Smart agrotourism platform concept connecting farmers with tourists.
+- Contributed to UX flow design, market research, and pitch deck preparation.
+- Designed and presented an MVP with the team during a 36-hour hackathon sprint.
+- Repository: [SafaroovRafiq/root_app](https://github.com/SafaroovRafiq/root_app)
 ---
 
 ## Contact
